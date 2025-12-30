@@ -6,7 +6,7 @@ package submission.pkg02;
 
 /**
  *
- * @author inesh
+ * @author Thathsandi
  */
 public class Submission02 {
 
@@ -18,3 +18,4 @@ public class Submission02 {
     }
     
 }
+
